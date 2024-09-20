@@ -37,7 +37,3 @@ TapChat is open-source software licensed under the [MIT License](LICENSE). You a
 ## 📞 Contact
 
 If you have any questions or feedback, feel free to reach out!
-
----
-
-This version of the README provides a high-level overview of TapChat’s features, technology stack, and contribution guidelines, without including installation instructions.
